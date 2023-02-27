@@ -1,6 +1,7 @@
 *.db
 *.log
-
+*.report
 
 /target/*
 /bin/*
+/test/*
